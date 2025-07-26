@@ -25,7 +25,6 @@ mady@linux:~$ echo "Welcome to my terminal"
   If my desktop doesn’t look cooler than my actual life... what's even the point?
 </p>
 
-###
 
 <div align="center">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" height="40" alt="Rust" />
