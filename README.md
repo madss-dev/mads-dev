@@ -4,7 +4,6 @@ mady@linux:~$ echo "Welcome to my terminal"
 > Welcome to my terminal
 </pre>
 </div>
-###
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/madss-dev/mads-dev/refs/heads/main/banner.png" alt="banner" />
